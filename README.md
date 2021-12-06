@@ -2,6 +2,11 @@
 > just we are testing nbdev
 
 
+```python
+%load_ext autoreload
+%autoreload 2
+```
+
 This file will become your README and also the index of your documentation.
 
 ## Install
@@ -44,5 +49,30 @@ o.say()
 
 
     'Hello Alexis!'
+
+
+
+```python
+o = HelloSayer("A")
+o.say()
+
+```
+
+
+
+
+    'Hello A!'
+
+
+
+```python
+C = CCac("Alexis")
+C.sh()
+```
+
+
+
+
+    'Alexis'
 
 
