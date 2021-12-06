@@ -9,5 +9,7 @@ def say_hello(to):
 
 # Cell
 class NB :
+    def __init__(self):
+        pass
     def calcul(x,y):
         return x+y
