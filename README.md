@@ -2,7 +2,7 @@
 > just we are testing nbdev
 
 
-```python
+```
 %load_ext autoreload
 %autoreload 2
 ```
@@ -17,7 +17,7 @@ This file will become your README and also the index of your documentation.
 
 Fill me in please! Don't forget code examples:
 
-```python
+```
 1+1
 ```
 
@@ -28,7 +28,7 @@ Fill me in please! Don't forget code examples:
 
 
 
-```python
+```
 say_hello("JJ")
 ```
 
@@ -39,7 +39,7 @@ say_hello("JJ")
 
 
 
-```python
+```
 o = HelloSayer("Alexis")
 o.say()
 
@@ -52,7 +52,7 @@ o.say()
 
 
 
-```python
+```
 o = HelloSayer("A")
 o.say()
 
@@ -65,7 +65,7 @@ o.say()
 
 
 
-```python
+```
 C = CCac("Alexis")
 C.sh()
 ```

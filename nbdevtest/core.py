@@ -4,7 +4,7 @@ __all__ = ['say_hello', 'HelloSayer', 'NB', 'CCac']
 
 # Cell
 def say_hello(to):
-    "Say hello to somebody"
+    "Say hello to somebody else"
     return f'Hello {to}!'
 
 # Cell
