@@ -20,5 +20,5 @@ class HelloSayer:
 class NB:
     def __init__(self):
         pass
-    def calcul(self,x,y):
+    def calcul(x,y):
         return x+y

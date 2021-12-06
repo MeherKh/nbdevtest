@@ -33,3 +33,16 @@ say_hello("JJ")
     'Hello JJ!'
 
 
+
+```python
+o = HelloSayer("Alexis")
+o.say()
+
+```
+
+
+
+
+    'Hello Alexis!'
+
+
